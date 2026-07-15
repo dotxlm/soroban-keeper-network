@@ -42,7 +42,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - CI: concurrency control (cancels superseded runs) and `--locked` builds.
-- Repository references updated to the `soroban-tooling` org.
+- Repository references updated to the `dotxlm` org.
 
 ### Fixed
 

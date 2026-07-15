@@ -2,10 +2,10 @@
 # https://docs.github.com/articles/about-code-owners
 
 # Default owner for everything
-*                                   @Andreschuks101
+*                                   @arandomogg
 
 # Contract logic requires contract-maintainer review
-/contracts/                         @Andreschuks101
+/contracts/                         @arandomogg
 
 # CI and repo automation
-/.github/                           @Andreschuks101
+/.github/                           @arandomogg

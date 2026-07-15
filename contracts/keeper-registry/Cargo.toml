@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Soroban Keeper Network Contributors"]
 description = "Decentralized Keeper Network registry contract for Soroban/Stellar"
 license = "Apache-2.0"
-repository = "https://github.com/soroban-tooling/soroban-keeper-network"
+repository = "https://github.com/dotxlm/soroban-keeper-network"
 keywords = ["soroban", "stellar", "keeper", "automation", "defi"]
 categories = ["cryptography::cryptocurrencies"]
 
